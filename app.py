@@ -1,3 +1,4 @@
+# KR2: Seidov
 import os
 import socket
 
